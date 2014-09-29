@@ -1,10 +1,10 @@
-https://twitter.com/CityLab
-https://twitter.com/cityforward
-https://twitter.com/CitiesChallenge
-https://twitter.com/Open_Cities
-https://twitter.com/AndreinaSeijas
-https://twitter.com/gophermagazine
-https://twitter.com/bookschool
-https://twitter.com/knightlab
-https://twitter.com/TEDFellow
-https://twitter.com/JSKstanford
+*  https://twitter.com/CityLab
+*  https://twitter.com/cityforward
+*  https://twitter.com/CitiesChallenge
+*  https://twitter.com/Open_Cities
+*  https://twitter.com/AndreinaSeijas
+*  https://twitter.com/gophermagazine
+*  https://twitter.com/bookschool
+*  https://twitter.com/knightlab
+*  https://twitter.com/TEDFellow
+*  https://twitter.com/JSKstanford
